@@ -1,0 +1,23 @@
+#headbox{
+    position:sticky;
+    top:1;
+    display:flex;
+    height:3vw;
+    background-color:#53DD6C;
+    
+
+}
+#MyName{
+    background-color:black;
+    position:relative;
+    margin-right:auto;
+    width:35%;
+    padding:0px;
+    
+}
+#navibar{
+    position:relative;
+    width:35%;
+    background-color:grey;
+    margin-left:auto;
+}
