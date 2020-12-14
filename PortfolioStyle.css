@@ -5,6 +5,7 @@
     height:3vw;
     width:100vw;
     background-color:#53DD6C;
+    z-index:+1 ;
     
 
 }
@@ -33,7 +34,10 @@
     justify-self:flex-end;
 }
 section {
+
+    position:relative;
     height:100vw;
-    background-color:grey;
+    background-color:lightblue;
     border-style:solid;
+    margin-top:3vw;
 }
